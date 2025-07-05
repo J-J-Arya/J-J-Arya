@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on innovative projects
 - 📫 How to reach me https://www.linkedin.com/in/j-j-arya-4b4a0128b/
-- 😄 Pronouns: she/her
 
 <!---
 J-J-Arya/J-J-Arya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
